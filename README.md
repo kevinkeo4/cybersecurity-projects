@@ -120,12 +120,8 @@ Projects highlighting human-focused security testing, phishing simulations, and 
 ## ✅ Progress Tracker
 *(This checklist will be updated as projects are completed and documented in the repository.)*  
 
-- [x] Port Scanning with Nmap  
-- [ ] Network Packet Analysis  
-- [ ] SQL Injection Basics  
-- [ ] Privilege Escalation  
-- [ ] Email Phishing Simulation  
-- ...  
+- [] Port Scanning with Nmap  
+
 
 ---
 
